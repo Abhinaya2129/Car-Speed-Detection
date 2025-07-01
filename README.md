@@ -23,3 +23,5 @@ This is a Flask-based web application that detects car speed in video footage us
 
 ```bash
 pip install -r requirements.txt
+
+[👉 Click Here to View the Live Project](https://car-speed-detection.onrender.com)
